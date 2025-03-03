@@ -1,8 +1,10 @@
 ## A simple quantum model creation in PennyLane+PyTorch
 - **Author:** Jacob Cybulski ([website](https://jacobcybulski.com/))
-- **Start Date:** Oct 1, 2024
-- **Update Date:** Oct 1, 2024
 - **Aims:** *To explore the creation and use of a simple model in PennyLane and PyTorch.*
+- **Start Date:** Oct 1, 2024
+- **Updates:**
+  - v1.7 (Oct 1, 2024): Created
+  - v1.8 (Mar 3, 2025): Updated to PennyLane v0.40.0 and PyTorch v2.6.0
 
 ### Folders
 - legacy: previous versions of files dated with the time of their removal
